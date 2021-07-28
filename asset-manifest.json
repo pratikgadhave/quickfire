@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/quickfire/static/css/main.3a6a8962.chunk.css",
+    "main.js": "/quickfire/static/js/main.d372008f.chunk.js",
+    "main.js.map": "/quickfire/static/js/main.d372008f.chunk.js.map",
+    "runtime-main.js": "/quickfire/static/js/runtime-main.3e40948f.js",
+    "runtime-main.js.map": "/quickfire/static/js/runtime-main.3e40948f.js.map",
+    "static/css/2.ce5f614b.chunk.css": "/quickfire/static/css/2.ce5f614b.chunk.css",
+    "static/js/2.7381d296.chunk.js": "/quickfire/static/js/2.7381d296.chunk.js",
+    "static/js/2.7381d296.chunk.js.map": "/quickfire/static/js/2.7381d296.chunk.js.map",
+    "static/js/3.923f979f.chunk.js": "/quickfire/static/js/3.923f979f.chunk.js",
+    "static/js/3.923f979f.chunk.js.map": "/quickfire/static/js/3.923f979f.chunk.js.map",
+    "index.html": "/quickfire/index.html",
+    "static/css/2.ce5f614b.chunk.css.map": "/quickfire/static/css/2.ce5f614b.chunk.css.map",
+    "static/css/main.3a6a8962.chunk.css.map": "/quickfire/static/css/main.3a6a8962.chunk.css.map",
+    "static/js/2.7381d296.chunk.js.LICENSE.txt": "/quickfire/static/js/2.7381d296.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/quickfire/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/image1.c6be54fb.jpg": "/quickfire/static/media/image1.c6be54fb.jpg",
+    "static/media/App.css": "/quickfire/static/media/image2.a4725ca4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e40948f.js",
+    "static/css/2.ce5f614b.chunk.css",
+    "static/js/2.7381d296.chunk.js",
+    "static/css/main.3a6a8962.chunk.css",
+    "static/js/main.d372008f.chunk.js"
+  ]
+}
